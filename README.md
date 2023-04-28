@@ -11,7 +11,7 @@ My mail: *vladislavpaokin@gmail.com*
 
 # My skils
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Kolesnikov-Vladislav/Kolesnikov-Vladislav/blob/main/img/selenoid.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/ru-ru/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/Kolesnikov-Vladislav/Kolesnikov-Vladislav/blob/main/img/IntelliJ_IDEA.png" alt="docker" width="40" height="40"/> </a>
 
 
 # My stats
