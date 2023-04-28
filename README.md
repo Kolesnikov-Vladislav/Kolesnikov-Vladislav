@@ -9,6 +9,9 @@ Place of residence: *Moscow*
 
 My mail: *vladislavpaokin@gmail.com*
 
+# My skils
+
+
 
 
 # My stats
