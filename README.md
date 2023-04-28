@@ -11,6 +11,14 @@ My mail: *vladislavpaokin@gmail.com*
 
 # My skils
 
+<details>
+<summary>Нажми что бы раскрыть</summary>
+<p>
+<div class="lightgallery">  
+<img alt="Description" src="img/selenoid.svg" /> 
+</a></div>
+</p>
+</details>
 
 
 # My stats
