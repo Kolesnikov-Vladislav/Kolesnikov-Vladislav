@@ -11,14 +11,7 @@ My mail: *vladislavpaokin@gmail.com*
 
 # My skils
 
-<details>
-<summary>Нажми что бы раскрыть</summary>
-<p>
-<div class="lightgallery">  
-<img alt="Description" src="img/selenoid.svg" /> 
-</a></div>
-</p>
-</details>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Kolesnikov-Vladislav/Kolesnikov-Vladislav/blob/main/img/selenoid.svg" alt="docker" width="40" height="40"/> </a>
 
 
 # My stats
