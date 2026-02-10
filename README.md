@@ -17,5 +17,4 @@ My mail: *vladislavpaokin@gmail.com*
 <a href="https://miro.com/ru/" target="_blank" rel="noreferrer"> <img src="https://github.com/Kolesnikov-Vladislav/Kolesnikov-Vladislav/blob/main/img/miro.png" alt="miro" width="40" height="40"/> </a>
 <a href="https://drawio-app.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Kolesnikov-Vladislav/Kolesnikov-Vladislav/blob/main/img/draw%20io.png" alt="draw-io" width="40" height="40"/> </a>
 
-# My stats
-![Kolesnikov-Vladislav github stats](https://github-readme-stats.vercel.app/api?username=Kolesnikov-Vladislav&theme=dark&show_icons=true)
+
